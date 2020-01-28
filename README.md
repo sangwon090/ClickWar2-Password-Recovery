@@ -1,2 +1,2 @@
 # ClickWar2-Password-Recovery
-It shows your password of click war 2.
+ClickWar2의 비밀번호를 복구해주는 툴
